@@ -14,7 +14,7 @@ blinker==1.3
 chardet==2.1.1
 Flask-Assets==0.8
 Flask-Login==0.2.2
-Flask==0.10.1
+Flask==1.0
 git+https://github.com/danring/HamlPy.git#egg=HamlPy
 google-api-python-client==1.2
 holidays==0.3.1
